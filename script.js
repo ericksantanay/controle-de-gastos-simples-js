@@ -1,20 +1,17 @@
     // SAIDA DO RESULTADO 
     let res = document.getElementById('lista');
 
-
     // SAIDA DO TOTAL
     let t = document.getElementById('total')
 
     // ARRAY, AONDE EU VOU ARMAZENAR OS CRDS 
     let listaGastos = []
 
-
     // INDICE PARA SABER QUAL SERA DELETADO, "NA HORA DE DELETAR"
     indice = 0
 
     // SOMA
     let soma = 0 
-
 
 // FUNÇÃO ADICIONAR
 function Adicionar() {
