@@ -84,4 +84,3 @@ function Adicionar() {
         listaGastos.splice(indice, 1)
         atualizarlista()
     }
-    
