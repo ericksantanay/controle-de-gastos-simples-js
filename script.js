@@ -55,7 +55,6 @@ function Adicionar() {
     atualizarlista()
 }   
 
-
     // FUNÇÃO PARA NÃO PRECISAR REPETIR CODIGO
     function atualizarlista() {
 
@@ -83,7 +82,6 @@ function Adicionar() {
         t.innerText = `Total: R$${soma.toFixed(2)}` 
 
     }
-
 
     // FUNÇÃO DE REMOVER UM DOS CARDS 
     function Remover(indice) {
