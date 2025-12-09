@@ -5,7 +5,6 @@
     // SAIDA DO TOTAL
     let t = document.getElementById('total')
 
-
     // ARRAY, AONDE EU VOU ARMAZENAR OS CRDS 
     let listaGastos = []
 
@@ -44,7 +43,6 @@ function Adicionar() {
 
     // PUXANDO O OBJETO NO ARRAY
     listaGastos.push(itens)    
-    
         
     document.getElementById('gasto').value = ''
 
